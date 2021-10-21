@@ -1,0 +1,17 @@
+#root {
+  max-width: 1000px;
+  margin: 30px auto;
+  padding: 50px;
+  background-color: #f1f1f1;
+}
+
+h1 {
+  font-family: monospace;
+}
+
+input {
+  margin-bottom: 7px;
+}
+button {
+  margin-bottom: 10px;
+}
